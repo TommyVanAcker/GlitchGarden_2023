@@ -41,3 +41,12 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: background
+    uniqueID: 3001881663
+    locked: 0
+  - name: game characters
+    uniqueID: 15959273
+    locked: 0
+  - name: trees
+    uniqueID: 2898241389
+    locked: 0
