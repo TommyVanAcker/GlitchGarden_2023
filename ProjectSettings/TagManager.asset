@@ -50,3 +50,6 @@ TagManager:
   - name: trees
     uniqueID: 2898241389
     locked: 0
+  - name: effects
+    uniqueID: 3003842197
+    locked: 0
